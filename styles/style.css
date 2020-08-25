@@ -354,7 +354,7 @@ color: white;
   font-weight: bold;
 }
 
-.footer__link {
+.footer__column-links {
   margin-top: 20px;
   margin-bottom: 16px;
   padding: 0px;
@@ -363,7 +363,7 @@ color: white;
   list-style: none;
  }
 
- .footer__column-links_link {
+ .footer__link {
    color: white;
    text-decoration: none;
  }
