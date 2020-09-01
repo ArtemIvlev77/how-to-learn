@@ -3,4 +3,9 @@
   margin-top: 80px;
   margin-left: auto;
   margin-right: auto;
+  list-style: none;
+  display:flex;
+  justify-content: space-around;
+  justify-items: center;
+  object-fit: contain;
 }
